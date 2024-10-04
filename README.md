@@ -1,0 +1,1 @@
+# SCTI03ProgParalela2024
